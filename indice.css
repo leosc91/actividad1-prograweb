@@ -1,0 +1,31 @@
+body {
+    font-family: sans-serif;
+    background-color: #f0f2f5;
+    max-width: 400px;
+    margin: 40px auto;
+    padding: 20px;
+    text-align: center;
+}
+
+h2 {
+    color: #333;
+    margin-bottom: 20px;
+}
+
+.indice a {
+    display: block;
+    background-color: white;
+    color: #007bff;
+    text-decoration: none;
+    padding: 15px;
+    margin-bottom: 10px;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    font-size: 18px;
+    transition: background-color 0.2s;
+}
+
+.indice a:hover {
+    background-color: #e9ecef;
+    color: #0056b3;
+}

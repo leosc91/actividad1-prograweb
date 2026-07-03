@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ordenador de números</title>
+    <link rel="stylesheet" href="css/ejercicio14.css">
+    <script src="js/ejercicio14.js"></script>
+</head>
+<body>
+    <div class="contenedor">
+        <h2>Ordenador de números</h2>
+        
+        <div class="grupo-formulario">
+            <label for="numeros">Introduce números separados por comas:</label>
+            <input type="text" id="numeros" placeholder="Ej. 10,20,30,40,50">
+        </div>
+
+        <div class="grupo-formulario">
+            <button onclick="ordenar()">Calcular</button>
+        </div>
+
+        <div class="grupo-formulario">
+            <input type="text" id="maximo" readonly placeholder="Número mayor">
+            <input type="text" id="minimo" readonly placeholder="Número menor">
+            <input type="text" id="promedio" readonly placeholder="Promedio">
+        </div>
+    </div>
+</body>
+</html>

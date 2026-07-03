@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Verificador de edad para votaciones</title>
+    <link rel="stylesheet" href="css/ejercicio13.css">
+    <script src="js/ejercicio13.js"></script>
+</head>
+<body>
+
+    <div class="contenedor">
+        <h2>Verificador de edad para votaciones</h2>
+        
+        <div class="grupo-formulario">
+            <label for="edad">Edad:</label>
+            <input type="number" id="edad" placeholder="Ej. 25" min="1" pattern="^[0-9]+">
+        </div>
+
+        <div class="grupo-formulario">
+            <button onclick="convertir()">Verificar</button>
+        </div>
+
+        <div class="grupo-formulario">
+            <input type="text" id="resultado" readonly placeholder="resultado">
+        </div>
+    </div>
+
+</body>
+</html>

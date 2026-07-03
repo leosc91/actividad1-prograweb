@@ -1,3 +1,6 @@
+Alumno: Salinas Cenobio Leonel Isaac.
+Hora: 10:00 - 13:00 hrs.
+
 Actividad 1 
 Esta actividad consiste en practicar programación web usando HTML, CSS y JavaScript. Se hicieron 10 ejercicios, cada uno enfocado en comprender lo básico de estructura de HTML, diseño con CSS y lógica con JavaScript
 

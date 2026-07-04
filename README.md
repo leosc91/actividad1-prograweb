@@ -15,6 +15,11 @@ Los ejercicios realizados son los siguientes:
 8. Horario – Uso de tablas para mostrar información organizada.
 9. Contacto – Formulario de contacto con estilo minimalista.
 10. Conversor de Temperatura – Calculadora que convierte grados de Celsius a Fahrenheit.
+11. Calculadora de Kilometros a Millas - Calculadora que convierte Kilometros a Millas.
+12. Calculadora de Divisas- Calculadora que hace el cambio de MXN a USD.
+13. Verificador de Votaciones - Verificador que confirma si una persona puede votar por su edad.
+14. Ordenador de Números - Calculadora que ordena números por número mayor, número menor y promedio.
+15. Formulario de Calificaciones - Formulario que permite añadir estudiantes y sus calificaciones para obtener mejor estudiante, peor estudiante y promedio.
 
 Tecnologías usadas:
 
